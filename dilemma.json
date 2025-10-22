@@ -1,0 +1,5 @@
+{
+  "people": 6,
+  "case_1": {"swerve": false, "reason": "Hitting two people avoids the less predictable outcome and minimizes harm in this scenario."},
+  "case_2": {"swerve": true, "reason": "Swerving to hit a child, even if the individuals are criminals, prioritizes protecting an innocent life, aligning with ethical considerations of innocence and potential future contributions."}
+}
